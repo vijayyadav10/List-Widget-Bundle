@@ -1,12 +1,12 @@
 code: et-app-conf
 titles:
-  en: Entando Template MF with conf
-  it: Entando Template MF with conf
+  en: List of Contents
+  it: List of Contents
 group: free
 customUiPath: et-widget.ftl
 configUi:
   customElement: list-content-widget-config # CHANGE-IT The name of the custom-element used to render the configUI
   resources: # CHANGE-IT the file containing the config screen built artefacts
     - list-content-widget/static/js/2.9a955463.chunk.js
-    - list-content-widget/static/js/main.b5e9555e.chunk.js
+    - list-content-widget/static/js/main.6e5a3c09.chunk.js
     - list-content-widget/static/js/runtime-main.9487466f.js
