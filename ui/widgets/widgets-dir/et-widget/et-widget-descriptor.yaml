@@ -8,5 +8,5 @@ configUi:
   customElement: list-content-widget-config # CHANGE-IT The name of the custom-element used to render the configUI
   resources: # CHANGE-IT the file containing the config screen built artefacts
     - list-content-widget/static/js/2.9a955463.chunk.js
-    - list-content-widget/static/js/main.2f8ea2a1.chunk.js
+    - list-content-widget/static/js/main.f0a0d369.chunk.js
     - list-content-widget/static/js/runtime-main.9487466f.js
